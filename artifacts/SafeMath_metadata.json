@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TheSportAppCoin.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TheSportAppCoin.sol": {
+			"keccak256": "0x2f1bc7f8c929b5a706948098e07291f28f8f3f71039a167c5be30448e92a1a3e",
+			"urls": [
+				"bzz-raw://e4080822464eea84e8d5b8fb128313cb84db1e231bc5c06f539dc231d997595a",
+				"dweb:/ipfs/QmTtYo3xykwhZWTtP1xwchLVMm1R87MR2pHPJDfZVvE9tQ"
+			]
+		}
+	},
+	"version": 1
+}
